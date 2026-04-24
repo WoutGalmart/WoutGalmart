@@ -1,16 +1,16 @@
-## Hi there 👋
+# Hi, I'm Wout! 👋
 
-<!--
-**WoutGalmart/WoutGalmart** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm an Associate Degree student in Programming at Artevelde University of Applied Sciences, with a passion for front-end development and 3D modelling. What sets me apart is my ability to combine clean code with visual creativity.
 
-Here are some ideas to get you started:
+### 💻 Technologies & Tools
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Languages:** HTML, CSS, JavaScript
+- **Frameworks & Libraries:** React.js, Node.js, Express.js, GSAP
+- **Software & Tools:** Blender, Craft CMS, Git, Figma
+
+### 🚀 Projects I'm proud of
+
+- **[City of Stories: Belfort Ghent](https://belfortghent.vercel.app/)** - An interactive 3D web experience exploring the historical Ghent Belfort. Users can navigate a 3D map using their mouse and interact with markers to discover points of interest.
+- more projects coming soon!
+
+📫 **Let's connect:** You can reach out to me on [LinkedIn](https://www.linkedin.com/in/wout-galmart-11b54132a/).
